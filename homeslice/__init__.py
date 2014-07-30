@@ -11,7 +11,7 @@ using the power of git and Python.
 from __future__ import print_function
 
 __title__ = 'Homeslice'
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 __author__ = 'Dave Forgac'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2014 Dave Forgac'

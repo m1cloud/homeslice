@@ -17,6 +17,11 @@ setup(
     include_package_data=False,
     install_requires=[],
     license='MIT',
+    entry_points={
+        'console_scripts': [
+            'homeslice = homeslice.cli:main',
+            ],
+        },
     classifiers=(
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
